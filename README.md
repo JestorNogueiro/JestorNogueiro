@@ -6,7 +6,7 @@ and i'm passionate in 🛠⛏ websites and clones for better user experience �
 </br>
 Experiance:</br>
 Did Internship in " Technomind It solutions "  for six month's </br>
-
+and I have Hand's On experience in building clones to expand my knowledge</br>
 </br>
 get in Touch on :</br>
 gmail-  jestornogueiro789@gmail.com
