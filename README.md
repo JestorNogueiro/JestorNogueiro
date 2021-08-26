@@ -7,9 +7,13 @@ Experiance:</br>
 Did Internship in " Technomind It solutions "  for six month's </br>
 passinate in Building clones and website for better user experience,  
 </br>
-get in Touch on:</br>
+get in Touch on :</br>
 gmail-  jestornogueiro789@gmail.com
 </br>
-facebook- 
-
+facebook :- "https://www.facebook.com/jestor.nogueiro/
+</br>
+insta:- https://www.instagram.com/jestor_nogueiro/
+</br>
+linkedIn:- https://www.linkedin.com/in/jestor-nogueiro-02467b184/
+</br>
 
