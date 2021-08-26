@@ -7,6 +7,8 @@ Did Internship in Technomind It solutions</br>
 passinate in Building clones for the hands on experience
 </br>
 get in Touch on:</br>
-gmail- jestornogueiro789@gmail.com
+gmail-  jestornogueiro789@gmail.com
+</br>
+facebook- 
 
 
