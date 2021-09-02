@@ -1,8 +1,9 @@
 <h2>👋 Hi, I’m <i><b>Jestor Nogueiro ❗</b></i></h2></br>
 I’m Front-end Developer,</br>  I Love Learning New things and technologies 📝 </br>
-and i'm passionate in 🛠⛏ websites and clones for better user experience 🤩,  
+and i'm passionate in 🛠⛏ websites and clones for expanding my knowledge 🤩,  
 </br>
-
+ I'm a practical learner,
+ </br>learn by doing , and hands-on
 </br>
 get in Touch on :</br>
 gmail-  jestornogueiro789@gmail.com
