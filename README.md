@@ -6,7 +6,8 @@ and i'm passionate in 🛠⛏ websites and clones for expanding my knowledge �
  </br>and believe in learn by doing , and hands-on building projects 
 </br></br>
 get in Touch on :</br>
-gmail- <a mailto:jestornogueiro789@gmail.com > Contact me</a>
+gmail- <a mailto:jestornogueiro789@gmail.com > Contact me
+ window.open("mailto:jestornogueiro789@gmail.com")</a>
 </br>
 facebook :- "https://www.facebook.com/jestor.nogueiro/
 </br>
